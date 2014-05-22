@@ -1,0 +1,37 @@
+Công việc:
+	1. Dịch lại hết file source.xml sang tiếng Anh
+	2. Tạo ra 1000 file xml ( dùng để hiển thị sản phẩm sau này)
+	3. Sửa lại file source.xml: bỏ hết các dấu cách, các chữ sau viết hoa chữ đầu
+	4. Tạo ra 1000 file xsd
+	5. Cách tìm kiếm:
+		*Do số lượng nhiều 1000 files mà tốc độ đối sánh lại chậm
+		 ==> phải thực hiện giới hạn không giam tìm kiếm trước khi dùng coma đối sánh
+			
+			Dựa vào đầu để lọc:
+			 - Dựa vào tên sản phẩm, giá:
+			 	Lợi điểm: Lọc được nhiều, sản phẩm chính xác
+			 	--> mất hết ý nghĩa sử dụng COMA
+
+		* Tìm kiếm hết nhưng giới hạn tập tìm kiếm để thời gian chấp nhận được
+			Cái này thì kết quả tìm kiếm có vẻ lại không cao
+
+		* Có cách nào tăng tốc độ đối sánh của COMA không?
+			Cần tìm ra bước tốn thời gian
+		   --> thử xem nào
+
+	6. Sửa lại quyển cô Lê check
+	7. Làm thêm những cái lằng nhằng kia
+
+	time: 3h38'05'' -> 3h42'52''
+	so luong: 173 sp : 4'47''=307'
+	1sp -> ~2'
+
+	Cuối cùng thì vân đề vẫn là không tùy chỉnh được code --> bắt buộc phải tủy chỉnh code thì mới được
+
+	Thay thế hoàn toàn coma v3 thanh coma trong tomcat( neu khong duoc thi thay the ca trong java)
+
+	Thu viet ham de tuy chinh( nham giam cac thao toc load graph de cai thien thoi gian)
+
+	Neu khong duoc thi danh 1 buoi toi cuoi cung vao ubuntu tuy chinh code
+
+	Neu khong duoc thi bo y dinh tuy chinh code. Ra windows làm được gì thì làm

@@ -1,0 +1,229 @@
+<product>
+    <name>iPhone 4S 16GB Black (Bản quốc tế)</name>World
+    <image>http://media.hangtot.com/Upload/2012/12/28/b7cacce280db7cbf82801bbee0826166.jpg</image>
+    <price>3200000</price>
+    <brand>Apple</brand>
+    <options>
+      <option>
+        <name>Dòng sản phẩm</name>Product line
+        <values>
+          <value>iPhone 4S</value>
+        </values>
+      </option>
+      <option>
+        <name>Hệ điều hành</name>Operating System(OS)
+        <values>
+          <value>iOS</value>
+          <value>iOS 5</value>
+        </values>
+      </option>
+      <option>
+        <name>Kiểu dáng</name>Design
+        <values>
+          <value>Dạng thanh</value>
+        </values>
+      </option>
+      <option>
+        <name>Kích thước</name>Dimensions
+        <values>
+          <value>115.2 x 58.6 x 9.3</value>
+        </values>
+      </option>
+      <option>
+        <name>Màn hình cảm ứng</name>Touchscreen
+        <values>
+          <value>Cảm ứng điện dung</value>Capacitive touchscreen
+        </values>
+      </option>
+      <option>
+        <name>Kích thước màn hình</name>Size
+        <values>
+          <value>3.5-inch</value>
+        </values>
+      </option>
+      <option>
+        <name>Trọng lượng </name>Weight
+        <values>
+          <value>140</value>
+        </values>
+      </option>
+      <option>
+        <name>Công nghệ màn hình</name>Screen
+        <values>
+          <value>IPS LCD</value>
+        </values>
+      </option>
+      <option>
+        <name>Độ phân giải màn hình</name>Resolution
+        <values>
+          <value>960 x 640</value>
+        </values>
+      </option>
+      <option>
+        <name>Công nghệ mạng</name>Network
+        <values>
+          <value>GSM</value>
+        </values>
+      </option>
+      <option>
+        <name>Băng tần</name>Frequency bands
+        <values>
+          <value>GSM 1800</value>
+          <value>GSM 1900</value>
+          <value>GSM 850</value>
+          <value>GSM 900</value>
+        </values>
+      </option>
+      <option>
+        <name>Công nghệ mạng dữ liệu</name>
+        <values>
+          <value>HSDPA 14.4 MBit/s</value>
+          <value>HSUPA 5.76 MBit/s</value>
+        </values>
+      </option>
+      <option>
+        <name>Phiên bản khóa mạng</name>Version
+        <values>
+          <value>Quốc tế</value>World
+        </values>
+      </option>
+      <option>
+        <name>Dòng vi xử lý</name>Chipset
+        <values>
+          <value>Apple Ax</value>
+        </values>
+      </option>
+      <option>
+        <name>Xung nhịp</name>CPU
+        <values>
+          <value>1.0 GHz</value>
+        </values>
+      </option>
+      <option>
+        <name>Số nhân</name>Core
+        <values>
+          <value>2 cores</value>
+        </values>
+      </option>
+      <option>
+        <name>Chip xử lý đồ họa</name>GPU
+        <values>
+          <value>PowerVR SGX543MP2</value>
+        </values>
+      </option>
+      <option>
+        <name>Dung lượng RAM</name>RAM
+        <values>
+          <value>512 MB</value>
+        </values>
+      </option>
+      <option>
+        <name>Bộ nhớ trong</name>Storage
+        <values>
+          <value>16 GB</value>
+        </values>
+      </option>
+      <option>
+        <name>Thẻ nhớ hỗ trợ</name>Card slot
+        <values>
+          <value>Không có</value>No
+        </values>
+      </option>
+      <option>
+        <name>Camera chính</name>Primary Camera
+        <values>
+          <value>8.0 megapixels</value>
+        </values>
+      </option>
+      <option>
+        <name>Camera phụ</name>Secondary Camera
+        <values>
+          <value>0.3 megapixels (VGA)</value>
+        </values>
+      </option>
+      <option>
+        <name>Tính năng camera</name>Camera Features
+        <values>
+          <value>Chạm để lấy nét</value>touch focus
+          <value>Đánh dấu địa điểm chụp</value>geo-tagging
+          <value>Flash LED</value>
+          <value>Lấy nét tự động</value>image stabilization
+          <value>Nhận diện khuôn mặt</value>face detection
+          <value>Quay 1080p</value>1080p
+        </values>
+      </option>
+      <option>
+        <name>GPS</name>
+        <values>
+          <value>Có</value>Yes
+        </values>
+      </option>
+      <option>
+        <name>Chuẩn Bluetooth</name>Bluetooth
+        <values>
+          <value>Bluetooth v4.0</value>
+        </values>
+      </option>
+      <option>
+        <name>Chuẩn Wi-Fi</name>Wi-Fi
+        <values>
+          <value>IEEE 802.11 b/g/n</value>
+        </values>
+      </option>
+      <option>
+        <name>Cổng giao tiếp</name>USB
+        <values>
+          <value>USB 2.0</value>
+          <value>Audio 3.5mm</value>
+        </values>
+      </option>
+      <option>
+        <name>Cảm biến</name>Sensor
+        <values>
+          <value>La bàn số</value>electronic compass
+        </values>
+      </option>
+      <option>
+        <name>Dung lượng pin </name>Battery
+        <values>
+          <value>1420</value>
+        </values>
+      </option>
+      <option>
+        <name>Màu sắc</name>Colors
+        <values>
+          <value>Đen</value>Black
+        </values>
+      </option>
+      <option>
+        <name>Kết nối</name>Network
+        <values>
+          <value>2G</value>
+          <value>3G</value>
+        </values>
+      </option>
+      <option>
+        <name>Tính năng</name>Features
+        <values>
+          <value>FM radio</value>
+          <value>Google Mail, Maps, Search, Talk</value>
+          <value>Ghi âm</value>Record
+          <value>Loa ngoài</value>Speakerphone
+          <value>Mạng xã hội</value>SNS integration
+          <value>MP4</value>
+          <value>Phần mềm văn phòng</value>Office Software
+          <value>Quay Video</value>Video recording
+          <value>Video call</value>
+          <value>You Tube</value>
+        </values>
+      </option>
+      <option>
+        <name>Phụ kiện đi kèm</name>Accessories
+        <values>
+          <value>Sạc</value>Charger
+          <value>Cáp kết nối</value>Cables
+          <value>Tai nghe</value>Headphone
+        </values>
+      </option>
+    </options>
+  </product>
