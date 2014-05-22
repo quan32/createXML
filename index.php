@@ -14,14 +14,22 @@
 	$size5=$products->count();
 	$string = "";
 
-	for($m=0;$m<$size5;$m++){
+	// for($m=0;$m<$size5;$m++){
+	for($m=0;$m<200;$m++){
 		// san pham 1
-		$filename1='schema'.($m+1).'.xsd';
-		$filename='C:\Users\NTQuan\workspace\Coma\sources\schema'.($m+1).'.xsd';
-		$image_name1='image'.($m+1).'.jpg';
-		$image_name='C:\Users\NTQuan\workspace\Coma\images\image'.($m+1).'.jpg';
-
 		$product1 = $products[$m];
+
+		$file_name='schema'.($m+1).'.xsd';
+		$file_url='C:\Users\NTQuan\workspace\Coma\sources\schema'.($m+1).'.xsd';
+		$xmlFile_url='C:\Users\NTQuan\workspace\Coma\xml\schema'.($m+1).'.xml';
+		$image_name='image'.($m+1).'.jpg';
+		$image_url='C:\Users\NTQuan\workspace\Coma\images\image'.($m+1).'.jpg';
+		$fullname = $product_name=$product1->children()[0];
+
+		// tao file xml
+		$product1->saveXML($xmlFile_url);
+
+
 		$string=
 				'<?xml version="1.0" encoding="UTF-8" standalone="no"?>'.
 				'<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">';
@@ -37,13 +45,9 @@
 		$product_price=$product1->children()[2];
 		$product_brand=$product1->children()[3];
 
-		//get image and save to disk
-		$content   = file_get_contents($product_img);
-		file_put_contents($image_name, $content);
-
 		//insert into db
-		$query="INSERT INTO products(name,image,price,brand)
-			values('$product_name','$image_name1','$product_price','$product_brand')";
+		$query="INSERT INTO products(name,image,price,brand,fullname, link)
+			values('$file_name','$image_name','$product_price','$product_brand','$fullname','$image_url')";
 		mysql_query($query) or die(mysql_error());
 
 
@@ -105,7 +109,7 @@
 		$string.='</xs:schema>';
 		
 
-		$handle = fopen($filename,'w') or die('Cannot create file');
+		$handle = fopen($file_url,'w') or die('Cannot create file');
 		if(!fwrite($handle, $string))
 			die('Cannot write to file');
 	}
