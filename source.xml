@@ -10822,7 +10822,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -11759,7 +11759,7 @@
       <option>
         <name>Touchscreen</name>
         <values>
-          <value>Cảm ứng hồng ngoại</value>
+          <value>Cảm ứng Pink ngoại</value>
         </values>
       </option>
       <option>
@@ -15329,7 +15329,7 @@
           <value>Video recording</value>
           <value>Inductive charging</value>
           <value>Work organizer</value>
-          <value>Thay đổi giọng nói khi đàm thoại</value>
+          <value>VoiceChanger</value>
           <value>Predictive text input</value>
           <value>T9 Dictionary</value>
           <value>Video call</value>
@@ -15799,7 +15799,7 @@
           <value>Video recording</value>
           <value>Inductive charging</value>
           <value>Work organizer</value>
-          <value>Thay đổi giọng nói khi đàm thoại</value>
+          <value>VoiceChanger</value>
           <value>Predictive text input</value>
           <value>T9 Dictionary</value>
           <value>Video call</value>
@@ -16526,7 +16526,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -20125,7 +20125,7 @@
         <values>
           <value>Black</value>
           <value>White</value>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -31281,7 +31281,7 @@
     </options>
   </product>
   <product>
-    <name>BlackBerry Porsche Design P'9981 8GB Grey</name>
+    <name>BlackBerry Porsche Design P9981 8GB Grey</name>
     <image>http://media.hangtot.com/Upload/product/Bl/ac/BlackBerry-Porsche-Design-P-9981-1333344967.png</image>
     <price>37000000</price>
     <brand>Blackberry</brand>
@@ -31455,7 +31455,7 @@
         <values>
           <value>Black</value>
           <value>White</value>
-          <value>Hồng</value>
+          <value>Pink</value>
           <value>Grey</value>
         </values>
       </option>
@@ -37069,7 +37069,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -39307,7 +39307,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -42895,7 +42895,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -43355,7 +43355,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -56407,7 +56407,7 @@
         <name>Colors</name>
         <values>
           <value>White + Black</value>
-          <value>Hồng + Black</value>
+          <value>Pink + Black</value>
         </values>
       </option>
     </options>
@@ -59475,7 +59475,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -65460,7 +65460,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -66833,7 +66833,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -69000,7 +69000,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -69186,7 +69186,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -78116,7 +78116,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -80044,7 +80044,7 @@
           <value>Voice dialing</value>
           <value>Video recording</value>
           <value>Work organizer</value>
-          <value>Thay đổi giọng nói khi đàm thoại</value>
+          <value>VoiceChanger</value>
           <value>Predictive text input</value>
           <value>Video call</value>
           <value>You Tube</value>
@@ -80666,7 +80666,7 @@
       <option>
         <name>Touchscreen</name>
         <values>
-          <value>Cảm ứng hồng ngoại</value>
+          <value>Cảm ứng Pink ngoại</value>
         </values>
       </option>
       <option>
@@ -80859,7 +80859,7 @@
         <values>
           <value>Black</value>
           <value>White</value>
-          <value>White + Hồng</value>
+          <value>White + Pink</value>
         </values>
       </option>
       <option>
@@ -83914,7 +83914,7 @@
       <option>
         <name>GPS</name>
         <values>
-          <value>Không</value>
+          <value>No</value>
         </values>
       </option>
       <option>
@@ -90653,7 +90653,7 @@
           <value>Voice dialing</value>
           <value>Video recording</value>
           <value>Work organizer</value>
-          <value>Thay đổi giọng nói khi đàm thoại</value>
+          <value>VoiceChanger</value>
           <value>Predictive text input</value>
         </values>
       </option>
@@ -92933,7 +92933,7 @@
         <name>USB</name>
         <values>
           <value>USB 2.0</value>
-          <value>Hồng ngoại</value>
+          <value>Pink ngoại</value>
         </values>
       </option>
       <option>
@@ -93163,7 +93163,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
     </options>
@@ -95467,7 +95467,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -99713,7 +99713,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
     </options>
@@ -101601,7 +101601,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
     </options>
@@ -105250,7 +105250,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -107776,7 +107776,7 @@
           <value>Voice dialing</value>
           <value>Video recording</value>
           <value>Inductive charging</value>
-          <value>Thay đổi giọng nói khi đàm thoại</value>
+          <value>VoiceChanger</value>
           <value>Predictive text input</value>
           <value>T9 Dictionary</value>
           <value>You Tube</value>
@@ -111326,7 +111326,7 @@
         <name>Colors</name>
         <values>
           <value>Black</value>
-          <value>White + Hồng</value>
+          <value>White + Pink</value>
         </values>
       </option>
       <option>
@@ -112226,7 +112226,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -115237,7 +115237,7 @@
         <name>USB</name>
         <values>
           <value>Audio 3.5mm</value>
-          <value>Hồng ngoại</value>
+          <value>Pink ngoại</value>
         </values>
       </option>
       <option>
@@ -117497,7 +117497,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>White + Hồng</value>
+          <value>White + Pink</value>
         </values>
       </option>
       <option>
@@ -129653,7 +129653,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>White + Hồng</value>
+          <value>White + Pink</value>
         </values>
       </option>
       <option>
@@ -131070,7 +131070,7 @@
       <option>
         <name>Colors</name>
         <values>
-          <value>Hồng</value>
+          <value>Pink</value>
         </values>
       </option>
       <option>
@@ -133378,7 +133378,7 @@
           <value>Office Software</value>
           <value>Video recording</value>
           <value>Work organizer</value>
-          <value>Thay đổi giọng nói khi đàm thoại</value>
+          <value>VoiceChanger</value>
           <value>Predictive text input</value>
           <value>T9 Dictionary</value>
         </values>
